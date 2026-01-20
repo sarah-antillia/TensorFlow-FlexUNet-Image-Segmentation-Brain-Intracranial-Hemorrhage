@@ -20,7 +20,7 @@ to generate the Augmented dataset from  the original dataset.
 <br><br> 
 <hr>
 <b>Actual Image Segmentation for Brain-Intracranial-Hemorrhage Images of 650x650 pixels</b><br>
-As shown below, the inferred masks look similar to the ground truth masks, but they lack precision in certain areas. <br><br>
+As shown below, the inferred masks look similar to the ground truth masks. <br><br>
 <br>
 <table>
 <tr>
